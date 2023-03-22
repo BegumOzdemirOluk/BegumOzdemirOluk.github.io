@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Can Oluk"
+title                    : "Begüm Özdemir Oluk"
 title_separator          : "-"
-name                     : &name "Can Oluk"
+name                     : &name "Begüm Özdemir Oluk"
 description              : &description "personal description"
-url                      : https://canoluk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://begumozdemiroluk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "canoluk/canoluk.github.io"
+repository               : "begumozdemiroluk/begumozdemiroluk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Can Oluk"
+  name             : "Begüm Özdemir Oluk"
   avatar           : "profile.png"
   bio              : " "
   location         : "Zürich"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=NwCzTz8AAAAJ&hl=tr&oi=ao"
-  email            : "cnoluk@gmail.com"
+  email            : "begum.ozdemiroluk@eawag.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "CanOluk"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
