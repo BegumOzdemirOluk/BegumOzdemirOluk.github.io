@@ -12,7 +12,7 @@ redirect_from:
 
 <p><a href="https://www.eawag.ch/en/department/ess/projects/understanding-the-demand-for-carbon-neutral-products-and-services/" target="_blank">My dissertation project</a> focuses on understanding consumers’ demand for carbon-neutral products and services, thereby examining the private provision of a global public good in relation to climate change mitigation efforts. The objective is to understand the factors influencing consumers' willingness to pay for climate-friendly products, as well as to obtain methodological insights into the extent of hypothetical bias within stated preference methods. To achieve this, my research employs a combination of field experiments, quasi-experimental approaches, and a meta-analyses. 
 
-Please find my curriculum vitae [here]. I can be reached at begum.ozdemiroluk[at]eawag.ch or begum.ozdemiroluk[at]unisg.ch.
+<p>Please find my curriculum vitae [here]. I can be reached at begum.ozdemiroluk[at]eawag.ch or begum.ozdemiroluk[at]unisg.ch.
 
 
 
