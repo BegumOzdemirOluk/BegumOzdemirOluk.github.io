@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Biography"
-    url: /biography/
+  - title: "Bio"
+    url: /bio/
 
   # - title: "Talks"
   #  url: /talks/    
