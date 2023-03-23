@@ -17,8 +17,7 @@ redirect_from:
 <p>Eawag: Swiss Federal Institute of Technology | Environmental Social Sciences</p>
 <p>Überlandstrasse 133 | 8600 Dübendorf | Switzerland</p>
 <p>University adress:</p>
-<p>University of St.Gallen |Swiss Institute for International Economics and Applied Economic Research (SIAW-HSG)</p>
-<p>Bodanstrasse 8 | 9000 St. Gallen | Switzerland
+<p>University of St.Gallen |Swiss Institute for International Economics and Applied Economic Research (SIAW-HSG) |Bodanstrasse 8 | 9000 St. Gallen | Switzerland
 
 
 
