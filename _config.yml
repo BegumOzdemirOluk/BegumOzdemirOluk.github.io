@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Begüm Özdemir Oluk"
+title                    : "Profile"
 title_separator          : "-"
 name                     : &name "Begüm Özdemir Oluk"
 description              : &description "personal description"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :  "https://www.linkedin.com/in/begum-ozdemir-oluk-636b6799/"
+  linkedin         :  "begum-ozdemir-oluk-636b6799/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/OzdemirOluk"
+  twitter          : "OzdemirOluk"
   vine             :
   weibo            :
   xing             :
