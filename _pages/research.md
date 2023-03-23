@@ -1,6 +1,6 @@
 ---
-![Iseltwald, Switzerland](https://begumozdemiroluk.github.io/images/nature1.jpg)
 layout: archive
+![Iseltwald, Switzerland](https://begumozdemiroluk.github.io/images/nature1.jpg)
 title: "Research"
 permalink: /research/
 author_profile: true
