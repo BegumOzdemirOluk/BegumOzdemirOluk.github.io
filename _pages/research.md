@@ -11,7 +11,8 @@ author_profile: true
 Publications Prior to Doctoral Studies
 ======
 
-Neyapti, B., & Oluk, B. Ö. (2021). Fiscal transfers in Turkey: Do politics matter?. Economic Systems, 45(3), 100909.
+Neyapti, B., and B. Ö. Oluk. "Fiscal Transfers in Turkey: Do Politics Matter?" <em>Economic Systems</em> 45, no. 3 (2021): 100909.
+
 
 
 
