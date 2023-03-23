@@ -1,4 +1,5 @@
 ---
+![Iseltwald, Switzerland](https://begumozdemiroluk.github.io/images/nature1.jpg)
 layout: archive
 title: "Research"
 permalink: /research/
@@ -12,7 +13,7 @@ author_profile: true
 
 Neyapti, B., and B. Özdemir Oluk. "Fiscal Transfers in Turkey: Do Politics Matter?" <em>Economic Systems</em> 45, no. 3 (2021): 100909.
 
-![Iseltwald, Switzerland](https://begumozdemiroluk.github.io/images/nature1.jpg)
+
 
 
 
