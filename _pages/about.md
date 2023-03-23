@@ -14,7 +14,8 @@ redirect_from:
 <strong>Contact</strong>  
 <p>E-mail: begum.ozdemiroluk[at]eawag.ch & begum.ozdemiroluk[at]unisg.ch.</p> 
 <p>Office adress:</p>   
-<p>Eawag: Swiss Federal Institute of Technology | Environmental Social Sciences | Überlandstrasse 133 | 8600 Dübendorf | Switzerland</p>
+<p>Eawag: Swiss Federal Institute of Technology | Environmental Social Sciences  
+| Überlandstrasse 133 | 8600 Dübendorf | Switzerland</p>
 <p>University adress:</p>   
 <p>University of St.Gallen | Swiss Institute for International Economics and Applied Economic Research (SIAW-HSG) | Bodanstrasse 8 | 9000 St. Gallen | Switzerland
 
