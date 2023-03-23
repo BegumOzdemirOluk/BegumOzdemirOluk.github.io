@@ -6,7 +6,7 @@ author_profile: true
 ---
 **Ongoing Projects**
 
-<a href="https://www.eawag.ch/en/department/ess/projects/understanding-the-demand-for-carbon-neutral-products-and-services/" target="_blank"> The Demand for Carbon-neutral Products and Services Project</a> with Dr.Stefano Carattini, Dr.Ivana Logar, Dr.Fabian Dvorak
+<a href="https://www.eawag.ch/en/department/ess/projects/understanding-the-demand-for-carbon-neutral-products-and-services/" target="_blank"> The Demand for Carbon-neutral Products and Services Project</a> with Dr. Stefano Carattini, Dr. Ivana Logar, Dr. Fabian Dvorak
 
 **Publications Prior to Doctoral Studies**
 
