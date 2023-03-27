@@ -12,7 +12,7 @@ author_profile: true
 
 Demand for Carbon-Neutral Products with Stefano Carattini, Ivana Logar, and Fabian Dvorak
 
-**Publications**
+**Publications Prior to Doctoral Studies**
 
 Neyapti, B., and B. Özdemir Oluk. "Fiscal Transfers in Turkey: Do Politics Matter?" <em>Economic Systems</em> 45, no. 3 (2021): 100909.
 
