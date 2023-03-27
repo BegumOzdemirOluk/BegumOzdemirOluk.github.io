@@ -10,7 +10,7 @@ author_profile: true
 
 **Working Papers**
 
-Demand for Carbon-Neutral Products and Services with Stefano Carattini, Ivana Logar, and Fabian Dvorak
+Demand for Carbon-Neutral Products with Stefano Carattini, Ivana Logar, and Fabian Dvorak
 
 **Publications**
 
