@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "My New CV Page"
+title: "Curriculum Vitae"
 permalink: /my-new-cv-page/
 author_profile: true
 ---
