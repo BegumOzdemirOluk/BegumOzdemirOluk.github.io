@@ -218,6 +218,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+    # _my-cv-page
+  - scope:
+      path: ""
+      type: my-cv-page
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _research
   - scope:
       path: ""
