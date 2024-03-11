@@ -3,6 +3,9 @@ main:
   - title: "Bio"
     url: /bio/
 
+  - title: "CV"
+    url: /CV/
+
   # - title: "Talks"
   #  url: /talks/    
 
@@ -21,5 +24,4 @@ main:
   #- title: "Markdown"
   #  url: /markdown/
 
-  - title: "CV"
-    url: /CV/
+
