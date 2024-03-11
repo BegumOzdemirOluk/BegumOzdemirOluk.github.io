@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Curriculum Vitae"
-permalink: /my-new-cv-page/
+title: "CV"
+permalink: /CV/
 author_profile: true
 ---
 
