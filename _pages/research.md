@@ -6,7 +6,7 @@ author_profile: true
 ---
 **Working Papers**
 
-**Carbon Neutrality and Transparency: Evidence from a Choice Experiment** (Job Market Paper) 
+Carbon Neutrality and Transparency: Evidence from a Choice Experiment (Job Market Paper) 
 
 **Abstract:**
 <p>This paper focuses on the impact of transparency in carbon-neutral labeling on consumer preferences and willingness to pay in a market with a proliferation of various climate labels. These labels, despite representing different concepts, may lead to consumer confusion due to their overlapping characteristics. Theoretical evidence suggests that an abundance of labels might promote those with lower environmental quality. The study aims to address whether providing detailed information on the percentage of CO<sub>2</sub> offsetting and CO<sub>2</sub> reduction on carbon-neutral labels influences consumer preferences. I conduct a discrete choice experiment among UK tea consumers through an online survey. I use a split samples approach, comparing responses to standard and "transparent" carbon-neutral labels that disclose specific CO<sub>2</sub> offsetting and CO<sub>2</sub> reduction percentages.</p>
