@@ -10,7 +10,6 @@ author_profile: true
 
 **Abstract:**
 <p>
-<p>
   This paper examines the effect of transparency in carbon-neutral labeling on consumer willingness to pay. Carbon-neutral labels indicate that a product's CO<sub>2</sub> emissions have been offset (compensated) outside the company and/or directly reduced within it. Although CO<sub>2</sub> offsets are generally viewed as less effective than CO<sub>2</sub> reductions, most labels on the market lack transparency regarding the proportion of CO<sub>2</sub> offset and CO<sub>2</sub> reduction. This study empirically investigates whether consumers are willing to pay for transparency on carbon-neutral labels and explores consumers' valuation of CO<sub>2</sub> reductions versus CO<sub>2</sub> offsets. Using a discrete choice experiment survey among UK tea consumers, I compare willingness to pay for standard versus transparent carbon-neutral labels. The control group saw a standard label without information about the breakdown of CO<sub>2</sub> offsetting and reduction, while the first treatment group saw a transparent label showing 95% CO<sub>2</sub> offsetting and 5% CO<sub>2</sub> reduction, and the second treatment group saw a label with a 50%-50% split. The findings show no evidence of willingness to pay for transparency on carbon-neutral labels or preference for CO<sub>2</sub> reductions over CO<sub>2</sub> offsets.
 <a href="https://www.socialscienceregistry.org/trials/12520">[Link to pre-registration]</a></p>
 
