@@ -85,6 +85,9 @@
   img {
      width: 100%;      // kapsayıcıya tam oturur
   max-width: none;  // 175 px sınırını kaldırır
+  transform: scale(0.75);      // resmi 3/4’e küçült
+transform-origin: left top;  // sola-üst köşeye hizalı kalsın
+border: 5px solid #006400;   // koyu yeşil çerçeve
 
     @include breakpoint($large) {
       padding: 5px;
@@ -95,6 +98,7 @@
 
 .author__content {
   display: table-cell;
+margin-left: 46px;  // 54 px + 10 px boşluk
   vertical-align: top;
   padding-left: 15px;
   padding-right: 25px;
