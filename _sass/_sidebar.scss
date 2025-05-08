@@ -85,7 +85,7 @@
   img {
     max-width: 575px;
     border-radius: 50%;
-    transform: scale(1.5); 
+    transform: scale(1.25); 
 
     @include breakpoint($large) {
       padding: 5px;
@@ -99,7 +99,6 @@
   vertical-align: top;
   position: relative; 
   top: 12px; 
-  margin-left: 64px; 
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
