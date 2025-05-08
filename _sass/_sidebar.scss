@@ -1,8 +1,8 @@
 .author__avatar img {
-  width: 25%; // 
-  max-width: none;
-  border-radius: 50%; // Daire yapar
-  border: 5px solid #006400; // Koyu yeşil çerçeve
+  transform: scale(1.5); // Boyutu 1.5 kat artırır
+  transform-origin: left top; // Büyümeyi sola hizalı yapar
+  border-radius: 50%;
+  border: 5px solid #006400;
 
   @include breakpoint($large) {
     padding: 5px;
