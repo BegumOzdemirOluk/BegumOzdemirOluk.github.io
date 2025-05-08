@@ -83,16 +83,14 @@
     height: auto;
   }
 
- img {
-  max-width: 575px;
-  border-radius: 50%;
-  transform: scale(1.5);       // resmi 1,5 kat büyütür
-  transform-origin: left top;  // büyürken sola-üst köşeye hizalı kalır
-  border: 5px solid #006400;   // koyu yeşil çerçeve
+  img {
+    max-width: 575px;
+    border-radius: 50%;
 
-  @include breakpoint($large) {
-    padding: 5px;
-    border: 5px solid #006400; // büyük ekranda da aynı çerçeve
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
   }
 }
 
