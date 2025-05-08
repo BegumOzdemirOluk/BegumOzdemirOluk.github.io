@@ -39,12 +39,21 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-/* Profil resmi konteynerine alt boşluk */
+/* Profil resmi ve isim çakışmasını kesin çözüm */
 .author__avatar {
-  margin-bottom: 15px;
+  float: none !important;      /* Floatsız, kendi satırına */
+  display: block;
+  margin: 0 auto 15px;         /* Ortala + alt boşluk */
+  text-align: center;          /* İsteğe bağlı ortalama */
 }
-/* Kullanıcı ismine üst-alt boşluk */
+
+.author__content {
+  float: none !important;      /* Metni de resmin altına al */
+  text-align: center;          /* Tüm içeriği ortala */
+}
+
 .author__name {
-  margin-top: 10px;
-  margin-bottom: 5px;
+  display: block;              /* Tam genişlik al */
+  margin: 10px 0 8px;          /* Üst-alt boşluk */
 }
+
