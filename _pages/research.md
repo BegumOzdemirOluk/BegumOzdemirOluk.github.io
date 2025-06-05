@@ -20,7 +20,7 @@ author_profile: true
   indicating different shares of CO<sub>2</sub> offsetting and CO<sub>2</sub> reduction.
   I find no evidence of consumers’ willingness to pay for transparency on carbon-neutral labels or preference for CO<sub>2</sub>
   reductions over CO<sub>2</sub> offsets.
-<a href="https://www.socialscienceregistry.org/trials/12520">[Link to pre-registration]</a></p>
+<a href="https://www.socialscienceregistry.org/trials/12520">[Link to pre-registration]</a>
 
 <p><a href="http://begumozdemiroluk.github.io/files/Demand_for_carbon_neutral_products_Jan_2024.pdf" target="_blank"> Demand for Carbon-Neutral Products</a> with Stefano Carattini, Fabian Dvorak, and  Ivana Logar</p> 
 
