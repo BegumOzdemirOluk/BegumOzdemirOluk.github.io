@@ -36,3 +36,40 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 <!-- end custom head snippets -->
+<style>
+  /* Zorunlu açık tema */
+  html { color-scheme: light; }
+
+  /* Arka plan ve metin (site geneli, sidebarlar dahil) */
+  html, body,
+  .masthead, .greedy-nav, .page, .page__inner-wrap, .page__content,
+  .sidebar, .sidebar__left, .sidebar__right, .sidebar__nav,
+  .archive, .taxonomy__index, .footer, .site-footer,
+  .page__hero, .page__hero--overlay, .initial-content {
+    background: #fff !important;
+    color: #000 !important;
+  }
+
+  /* Metin ve başlıklar */
+  body, .page__content, .site-title,
+  h1, h2, h3, h4, h5, h6,
+  .page__title, .archive__item-title, .nav__list .nav__items a {
+    color: #000 !important;
+  }
+
+  /* Linkler mavi */
+  a, a:visited { color: #0645AD !important; }
+
+  /* Dark mode tercihinde de açık kalsın */
+  @media (prefers-color-scheme: dark) {
+    html, body,
+    .masthead, .greedy-nav, .page, .page__inner-wrap, .page__content,
+    .sidebar, .sidebar__left, .sidebar__right, .sidebar__nav,
+    .archive, .taxonomy__index, .footer, .site-footer,
+    .page__hero, .page__hero--overlay, .initial-content {
+      background: #fff !important;
+      color: #000 !important;
+    }
+    a, a:visited { color: #0645AD !important; }
+  }
+</style>
