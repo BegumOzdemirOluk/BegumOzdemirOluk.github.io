@@ -7,10 +7,11 @@ author_profile: true
 
 <p><a href="http://begumozdemiroluk.github.io/files/B_OzdemirOluk_JMP.pdf" target="_blank"> Transparency of carbon-neutral labels: evidence from a choice experiment</a> (job market paper)</p>    
 
+<a href="https://www.socialscienceregistry.org/trials/12520">[Link to pre-registration]</a>
+
 **Abstract:**
 This paper examines the effect of transparency in carbon-neutral labeling on consumers' willingness to pay. Carbon-neutral labels indicate that a product's greenhouse gas emissions have been offset (compensated) outside the company and/or directly reduced within it. Although expert assessments view CO<sub>2</sub> offsets as less effective than CO<sub>2</sub> reductions, most labels on the market lack transparency regarding the proportion of CO<sub>2</sub> offset and CO<sub>2</sub> reduction. This study empirically investigates whether consumers are willing to pay for transparency in carbon-neutral labels by disclosing the shares of CO<sub>2</sub> offset and CO<sub>2</sub> reduction. Using a discrete choice experiment survey among UK tea consumers, I compare the willingness to pay for standard versus transparent carbon-neutral labels. The control group saw a standard carbon-neutral label, while the treatment groups saw transparent labels indicating varying shares of CO<sub>2</sub> offsetting and CO<sub>2</sub> reduction. I find no evidence of consumers' willingness to pay for transparency on carbon-neutral labels or a preference for CO<sub>2</sub> reductions over CO<sub>2</sub> offsets, indicating a mismatch between expert and consumer valuations. I further find that the presence of organic and ethical trade labels crowds out the marginal value of the carbon-neutral claim, yet does not change the null effect of transparency.
 
-<a href="https://www.socialscienceregistry.org/trials/12520">[Link to pre-registration]</a>
 
 <p><a href="http://begumozdemiroluk.github.io/files/Demand_for_carbon_neutral_products_Jan_2024.pdf" target="_blank"> Demand for carbon-neutral products</a> with Stefano Carattini, Fabian Dvorak, and  Ivana Logar (submitted & presented at JEEM Workshop on Non-Market Valuation)</p> 
 
