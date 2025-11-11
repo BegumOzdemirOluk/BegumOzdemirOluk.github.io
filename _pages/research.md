@@ -15,11 +15,11 @@ This paper examines the effect of transparency in carbon-neutral labeling on con
 <p>
   <a href="https://www.ifo.de/DocDL/cesifo1_wp12232.pdf" target="_blank">
     Demand for carbon-neutral products
-  </a>, 
-  <em>CESifo Working Paper No. 12232</em>, 
-  with Stefano Carattini, Fabian Dvorak, and Ivana Logar 
+  </a>, with Stefano Carattini, Fabian Dvorak, and Ivana Logar, 
+  <em>CESifo Working Paper No. 12232</em> 
   (submitted and presented at the <em>JEEM Workshop on Non-Market Valuation</em>).
 </p>
+
 
 **Abstract:**  
 <p>Corporate social responsibility and the private provision of (global) public goods are of key interest to economists and policymakers. Over the last few years, many more private companies made their operations carbon neutral. It is an empirical question how consumers value carbon-neutral and low-carbon products, which we address as follows. First, we provide a meta-analysis of the literature. We analyze consumers' demand for carbon-neutral and low-carbon products, based on an overall sample of 29,666 participants. The focus is on average willingness to pay for carbon reductions as well as on the characteristics of the underlying literature, which is mainly based on stated preferences and controlled environments. Second, we leverage information on prices and product characteristics from one of the largest online marketplaces, Amazon's. Using a hedonic approach, we infer from revealed preferences on consumers' valuation of carbon-neutral products. The staggered process of carbon-neutral certification leads to a series of quasi-natural experiments, which we use for identification purposes. We find that the literature suggests a positive willingness to pay for carbon reductions that exceeds most estimates of the social cost of carbon. However, this finding is not supported by the hedonic analyses, where we do not find evidence that consumers value carbon neutrality.</p>
