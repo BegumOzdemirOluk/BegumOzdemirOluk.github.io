@@ -16,7 +16,7 @@ This paper examines the effect of transparency in carbon-neutral labeling on con
   <a href="https://www.ifo.de/DocDL/cesifo1_wp12232.pdf" target="_blank">
     Demand for carbon-neutral products
   </a>, with Stefano Carattini, Fabian Dvorak, and Ivana Logar, 
-  <em>CESifo Working Paper No. 12232</em><br>
+  <em>CESifo Working Paper No. 12232</em> 
   (submitted and presented at the <em>JEEM Workshop on Non-Market Valuation</em>).
 </p>
 
