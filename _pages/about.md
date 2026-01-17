@@ -13,7 +13,7 @@ redirect_from:
 <strong>Contact</strong>  
 <p>E-mail: begum.ozdemiroluk[at]unisg.ch</p> 
 <p> Swiss Institute for International Economics and Applied Economic Research
-(SIAW-HSG) | University of St. Gallen | Rosenbergstrasse 22 | CH-9000 St. Gallen | Switzerland</p>
+(SIAW-HSG) | Rosenbergstrasse 22 | CH-9000 St. Gallen | Switzerland</p>
 
 
 
