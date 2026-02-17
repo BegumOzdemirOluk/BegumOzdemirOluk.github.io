@@ -70,7 +70,7 @@ Corporate social responsibility and the private provision of (global) public goo
 ## Publications Prior to Doctoral Studies
 
 <p>
-Neyapti, Bilin, and Begüm Özdemir Oluk. 2021.
+Neyapti, Bilin, and Özdemir Oluk, Begüm. 2021.
 <a href="https://www.sciencedirect.com/science/article/pii/S0939362521000571">
 "Fiscal Transfers in Turkey: Do Politics Matter?"</a>
 <em>Economic Systems</em> 45(3): 100909.
