@@ -44,14 +44,13 @@ Demand for carbon-neutral products
 <br>
 
 <span style="font-size:0.9em; color:#555;">
-Working Papers: 
 <a href="https://cepr.org/publications/dp20843" target="_blank" style="color:inherit; text-decoration:underline;">
-CEPR Discussion Paper DP20843
+CEPR DP20843
 </a> ·
 <a href="https://www.cesifo.org/en/publications/2025/working-paper/demand-carbon-neutral-products" target="_blank" style="color:inherit; text-decoration:underline;">
-CESifo Working Paper No. 12232
+CESifo WP 12232
 </a>
-</span>  
+</span>
 <br>
 Presented at the <em>JEEM/REE Workshop on Non-Market Valuation</em>
 
