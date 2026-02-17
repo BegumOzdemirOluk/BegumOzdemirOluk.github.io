@@ -14,8 +14,7 @@ Transparency of carbon-neutral labels: evidence from a choice experiment
 </strong></a>  
 <em>(job market paper)</em> — <strong>Submitted</strong>  
 <br>
-<span style="font-size:0.85em; color:#666;">
-Working Paper · 
+<span style="font-size:0.85em; color:#666;"> 
 <a href="https://www.socialscienceregistry.org/trials/12520" style="color:inherit; text-decoration:underline;">
 Pre-registration
 </a>
@@ -35,14 +34,14 @@ This paper examines whether transparency affects consumers’ willingness to pay
 <hr>
 
 <div style="margin-bottom:2em;">
-
+Working Paper: 
 <a href="https://www.cesifo.org/en/publications/2025/working-paper/demand-carbon-neutral-products" target="_blank">
 <strong style="font-size:1.15em; color:#1a4fb3;">
 Demand for carbon-neutral products
 </strong></a>, with Stefano Carattini, Fabian Dvorak, and Ivana Logar  
 — <strong>Submitted</strong>  
 <br>
-
+Working papers:
 <span style="font-size:0.9em; color:#555;">
 <a href="https://cepr.org/publications/dp20843" target="_blank" style="color:inherit; text-decoration:underline;">
 CEPR DP20843
