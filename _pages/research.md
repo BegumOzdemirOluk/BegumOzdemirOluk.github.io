@@ -43,7 +43,7 @@ Demand for carbon-neutral products
 <br>
 
 <span style="font-size:0.85em; color:#666;">
-Working papers ·
+Working papers:
 <a href="https://cepr.org/publications/dp20843" target="_blank" style="color:inherit; text-decoration:underline;">
 CEPR DP20843
 </a> ·
