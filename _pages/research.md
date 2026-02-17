@@ -15,7 +15,10 @@ Transparency of carbon-neutral labels: evidence from a choice experiment
 <em>(job market paper)</em> — <strong>Submitted</strong>  
 <br>
 <span style="font-size:0.85em; color:#666;">
-[ <a href="https://www.socialscienceregistry.org/trials/12520">pre-registration</a> ]
+Working Paper · 
+<a href="https://www.socialscienceregistry.org/trials/12520" style="color:inherit; text-decoration:underline;">
+Pre-registration
+</a>
 </span>
 
 <details style="margin-top:0.5em;">
@@ -40,9 +43,14 @@ Demand for carbon-neutral products
 — <strong>Submitted</strong>  
 <br>
 
-<span style="font-size:0.9em;">
-<a href="https://cepr.org/publications/dp20843" target="_blank">CEPR Discussion Paper DP20843</a> · 
-<a href="https://www.cesifo.org/en/publications/2025/working-paper/demand-carbon-neutral-products" target="_blank">CESifo Working Paper No. 12232</a>
+<span style="font-size:0.9em; color:#555;">
+Working Papers: 
+<a href="https://cepr.org/publications/dp20843" target="_blank" style="color:inherit; text-decoration:underline;">
+CEPR Discussion Paper DP20843
+</a> ·
+<a href="https://www.cesifo.org/en/publications/2025/working-paper/demand-carbon-neutral-products" target="_blank" style="color:inherit; text-decoration:underline;">
+CESifo Working Paper No. 12232
+</a>
 </span>  
 <br>
 Presented at the <em>JEEM/REE Workshop on Non-Market Valuation</em>
