@@ -39,7 +39,11 @@ Demand for carbon-neutral products
 </strong></a>, with Stefano Carattini, Fabian Dvorak, and Ivana Logar  
 — <strong>Submitted</strong>  
 <br>
-CEPR Discussion Paper DP20843 · CESifo Working Paper No. 12232  
+
+<span style="font-size:0.9em;">
+<a href="https://cepr.org/publications/dp20843" target="_blank">CEPR Discussion Paper DP20843</a> · 
+<a href="https://www.cesifo.org/en/publications/2025/working-paper/demand-carbon-neutral-products" target="_blank">CESifo Working Paper No. 12232</a>
+</span>  
 <br>
 Presented at the <em>JEEM/REE Workshop on Non-Market Valuation</em>
 
