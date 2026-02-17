@@ -33,14 +33,20 @@ This paper examines whether transparency affects consumers’ willingness to pay
 
 <div style="margin-bottom:2em;">
 
-<a href="https://cepr.org/publications/dp20843" target="_blank">
+<a href="https://www.cesifo.org/en/publications/2025/working-paper/demand-carbon-neutral-products" target="_blank">
 <strong style="font-size:1.15em; color:#1a4fb3;">
 Demand for carbon-neutral products
 </strong></a>, with Stefano Carattini, Fabian Dvorak, and Ivana Logar  
-<strong>Submitted</strong>  
+— <strong>Submitted</strong>  
 <br>
-CEPR Discussion Paper DP20843 · CESifo Working Paper No. 12232  
+
+<span style="font-size:0.9em; color:#666;">
+Working paper:
+<a href="https://www.cesifo.org/en/publications/2025/working-paper/demand-carbon-neutral-products">CESifo No. 12232</a> ·
+<a href="https://cepr.org/publications/dp20843">CEPR DP20843</a>
+</span>
 <br>
+
 Presented at the <em>JEEM/REE Workshop on Non-Market Valuation</em>
 
 <details style="margin-top:0.5em;">
