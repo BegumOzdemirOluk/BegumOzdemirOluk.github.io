@@ -34,15 +34,16 @@ This paper examines whether transparency affects consumers’ willingness to pay
 <hr>
 
 <div style="margin-bottom:2em;">
-Working Paper: 
+
 <a href="https://www.cesifo.org/en/publications/2025/working-paper/demand-carbon-neutral-products" target="_blank">
 <strong style="font-size:1.15em; color:#1a4fb3;">
 Demand for carbon-neutral products
 </strong></a>, with Stefano Carattini, Fabian Dvorak, and Ivana Logar  
 — <strong>Submitted</strong>  
 <br>
-Working papers:
-<span style="font-size:0.9em; color:#555;">
+
+<span style="font-size:0.85em; color:#666;">
+Working papers ·
 <a href="https://cepr.org/publications/dp20843" target="_blank" style="color:inherit; text-decoration:underline;">
 CEPR DP20843
 </a> ·
@@ -51,6 +52,7 @@ CESifo WP 12232
 </a>
 </span>
 <br>
+
 Presented at the <em>JEEM/REE Workshop on Non-Market Valuation</em>
 
 <details style="margin-top:0.5em;">
@@ -63,7 +65,6 @@ Corporate social responsibility and the private provision of (global) public goo
 </details>
 
 </div>
-
 <hr>
 
 ## Publications Prior to Doctoral Studies
