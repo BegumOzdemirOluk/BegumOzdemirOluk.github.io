@@ -5,17 +5,19 @@ author_profile: true
 ---
 **Working Papers**
 
-<p><a href="http://begumozdemiroluk.github.io/files/B_OzdemirOluk_JMP.pdf" target="_blank"> Transparency of carbon-neutral labels: evidence from a choice experiment</a> (job market paper)</p>    
+<p><a href="http://begumozdemiroluk.github.io/files/B_OzdemirOluk_JMP.pdf" target="_blank"> Transparency of carbon-neutral labels: evidence from a choice experiment</a> (<strong>submitted</strong>) (job market paper)</p>    
 
 <a href="https://www.socialscienceregistry.org/trials/12520">[Link to pre-registration]</a>
 
 **Abstract:**
-This paper examines the effect of transparency in carbon-neutral labeling on consumers' willingness to pay. Carbon-neutral labels indicate that a product's greenhouse gas emissions have been offset (compensated) outside the company and/or directly reduced within it. Although expert assessments view CO<sub>2</sub> offsets as less effective than CO<sub>2</sub> reductions, most labels on the market lack transparency regarding the proportion of CO<sub>2</sub> offset and CO<sub>2</sub> reduction. This study empirically investigates whether consumers are willing to pay for transparency in carbon-neutral labels by disclosing the shares of CO<sub>2</sub> offset and CO<sub>2</sub> reduction. Using a discrete choice experiment survey among UK tea consumers, I compare the willingness to pay for standard versus transparent carbon-neutral labels. The control group saw a standard carbon-neutral label, while the treatment groups saw transparent labels indicating varying shares of CO<sub>2</sub> offsetting and CO<sub>2</sub> reduction. I find no evidence of consumers' willingness to pay for transparency on carbon-neutral labels or a preference for CO<sub>2</sub> reductions over CO<sub>2</sub> offsets, indicating a mismatch between expert and consumer valuations. I further find that the presence of organic and ethical trade labels crowds out the marginal value of the carbon-neutral claim, yet does not change the null effect of transparency.
+<p>
+  This paper examines whether transparency affects consumers’ willingness to pay for carbon-neutral labels. Companies increasingly label products as carbon neutral, yet these labels do not disclose the shares of CO<sub>2</sub> offsetting and CO<sub>2</sub> reduction underlying the claim. Using a discrete choice experiment with 1,339 UK tea consumers, I compare willingness to pay for standard versus transparent carbon-neutral labels that disclose these shares. The control group saw a standard label, while treatment groups saw transparent labels indicating different offset–reduction compositions. I find no evidence that consumers are willing to pay for transparency or that they prefer CO<sub>2</sub> reductions over offsets. Furthermore, organic and ethical trade labels crowd out the value of the carbon-neutral claim but do not change the null effect of transparency. These findings suggest that demand-side market forces alone may be insufficient to ensure quality differentiation in carbon-neutral labeling and may strengthen the case for regulation.
+</p>
 
 <p>
-  <a href="https://www.ifo.de/DocDL/cesifo1_wp12232.pdf" target="_blank">Demand for carbon-neutral products</a>, with Stefano Carattini, Fabian Dvorak, and Ivana Logar, 
-  <em>CESifo Working Paper No. 12232</em> 
-  (submitted and presented at the <em>JEEM/REE Workshop on Non-Market Valuation</em>).
+<a href="https://cepr.org/publications/dp20843" target="_blank">
+Demand for carbon-neutral products</a>, with Stefano Carattini, Fabian Dvorak, and Ivana Logar
+(<strong>submitted</strong>; CEPR Discussion Paper DP20843; CESifo Working Paper No. 12232; presented at the <em>JEEM/REE Workshop on Non-Market Valuation</em>)
 </p>
 
 **Abstract:**  
