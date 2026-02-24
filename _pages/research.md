@@ -24,7 +24,17 @@ Pre-registration
 <summary style="cursor:pointer;"><strong>Abstract</strong></summary>
 
 <p style="font-size:0.95em; line-height:1.45; margin-top:0.6em;">
-This paper examines whether transparency affects consumers’ willingness to pay for carbon-neutral labels. Companies increasingly label products as carbon neutral, yet these labels do not disclose the shares of CO<sub>2</sub> offsetting and CO<sub>2</sub> reduction underlying the claim. Using a discrete choice experiment with 1,339 UK tea consumers, I compare willingness to pay for standard versus transparent carbon-neutral labels that disclose these shares. The control group saw a standard label, while treatment groups saw transparent labels indicating different offset–reduction compositions. I find no evidence that consumers are willing to pay for transparency or that they prefer CO<sub>2</sub> reductions over offsets. Furthermore, organic and ethical trade labels crowd out the value of the carbon-neutral claim but do not change the null effect of transparency. These findings suggest that demand-side market forces alone may be insufficient to ensure quality differentiation in carbon-neutral labeling and may strengthen the case for regulation.
+  This paper examines whether transparency affects consumers’ willingness to pay for
+  carbon-neutral labels. Many companies label products as carbon neutral, yet these
+  labels do not disclose the shares of CO<sub>2</sub> offsetting and CO<sub>2</sub> reduction underlying the
+  claim. The EU has recently adopted rules to prohibit environmental claims that rely on
+  CO<sub>2</sub> offsetting, while other jurisdictions, such as the UK, have issued guidance recommending disclosure. Using a discrete choice experiment with 1,339 UK tea consumers, I compare willingness to pay for standard versus transparent carbon-neutral labels that
+  disclose the offset–reduction composition. I find no evidence that transparency increases
+  willingness to pay or that consumers prefer CO<sub>2</sub> reductions over offsets. Furthermore,
+  organic and ethical trade labels crowd out the value of the carbon-neutral claim but do
+  not change the null effect of transparency. These findings suggest that disclosure alone
+  may not be sufficient to ensure quality differentiation in carbon-neutral labeling and
+  that additional regulation may be needed.
 </p>
 
 </details>
