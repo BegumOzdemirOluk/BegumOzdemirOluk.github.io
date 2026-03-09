@@ -8,7 +8,7 @@ author_profile: true
 
 <div style="margin-bottom:2em;">
 
-<a href="http://begumozdemiroluk.github.io/files/B_OzdemirOluk_JMP.pdf" target="_blank">
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6251758" target="_blank">
 <strong style="font-size:1.15em; color:#1a4fb3;">
 Transparency of carbon-neutral labels: evidence from a choice experiment
 </strong></a>  
