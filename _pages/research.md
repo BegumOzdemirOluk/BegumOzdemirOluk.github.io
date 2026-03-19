@@ -6,89 +6,83 @@ author_profile: true
 
 ## Working Papers
 
-<div style="margin-bottom:2.5em; line-height:1.6;">
+<div style="margin-bottom:2em;">
 
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6251758" target="_blank" style="text-decoration:none;">
-    <strong style="font-size:1.2em; color:#1a4fb3;">
-      Transparency of carbon-neutral labels: evidence from a choice experiment
-    </strong>
-  </a>  
-  <span style="color:#444;"> <em>(Job Market Paper)</em></span>  
-  <br>
-  <span style="color:#555;">Submitted</span>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6251758" target="_blank">
+<strong style="font-size:1.15em; color:#1a4fb3;">
+Transparency of carbon-neutral labels: evidence from a choice experiment
+</strong></a>  
+<em>(job market paper)</em> — <strong>Submitted</strong>  
+<br>
+<span style="font-size:0.85em; color:#666;"> 
+<a href="https://www.socialscienceregistry.org/trials/12520" style="color:inherit; text-decoration:underline;">
+Pre-registration
+</a>
+</span>
 
-  <div style="margin-top:0.4em; font-size:0.9em;">
-    <a href="https://www.socialscienceregistry.org/trials/12520" target="_blank">
-      Pre-registration
-    </a>
-  </div>
+<details style="margin-top:0.5em;">
+<summary style="cursor:pointer;"><strong>Abstract</strong></summary>
 
-  <details style="margin-top:0.8em;">
-    <summary style="cursor:pointer; font-weight:600;">Abstract</summary>
-    <p style="margin-top:0.6em; font-size:0.95em; color:#333;">
-      This paper examines whether transparency affects consumers' willingness to pay for
-      carbon-neutral labels. Many companies label products as carbon neutral, yet these
-      labels do not disclose the shares of CO<sub>2</sub> offsetting and CO<sub>2</sub> reduction underlying the
-      claim. The EU has recently adopted rules to prohibit environmental claims that rely on
-      CO<sub>2</sub> offsetting, while other jurisdictions, such as the UK, have issued guidance recommending disclosure. Using a discrete choice experiment with 1,339 UK tea consumers, I compare willingness to pay for standard versus transparent carbon-neutral labels that
-      disclose the offset–reduction composition. I find no evidence that transparency increases
-      willingness to pay or that consumers prefer CO<sub>2</sub> reductions over offsets. Furthermore,
-      organic and ethical trade labels crowd out the value of the carbon-neutral claim but do
-      not change the null effect of transparency. These findings suggest that disclosure alone
-      may not be sufficient to ensure quality differentiation in carbon-neutral labeling and
-      that additional regulation may be needed.
-    </p>
-  </details>
+<p style="font-size:0.95em; line-height:1.45; margin-top:0.6em;">
+  This paper examines whether transparency affects consumers' willingness to pay for
+  carbon-neutral labels. Many companies label products as carbon neutral, yet these
+  labels do not disclose the shares of CO<sub>2</sub> offsetting and CO<sub>2</sub> reduction underlying the
+  claim. The EU has recently adopted rules to prohibit environmental claims that rely on
+  CO<sub>2</sub> offsetting, while other jurisdictions, such as the UK, have issued guidance recommending disclosure. Using a discrete choice experiment with 1,339 UK tea consumers, I compare willingness to pay for standard versus transparent carbon-neutral labels that
+  disclose the offset–reduction composition. I find no evidence that transparency increases
+  willingness to pay or that consumers prefer CO<sub>2</sub> reductions over offsets. Furthermore,
+  organic and ethical trade labels crowd out the value of the carbon-neutral claim but do
+  not change the null effect of transparency. These findings suggest that disclosure alone
+  may not be sufficient to ensure quality differentiation in carbon-neutral labeling and
+  that additional regulation may be needed.
+</p>
 
-</div>
-
-<hr style="margin:2em 0;">
-
-<div style="margin-bottom:2.5em; line-height:1.6;">
-
-  <a href="https://www.cesifo.org/en/publications/2025/working-paper/demand-carbon-neutral-products" target="_blank" style="text-decoration:none;">
-    <strong style="font-size:1.2em; color:#1a4fb3;">
-      Demand for carbon-neutral products
-    </strong>
-  </a>, 
-  <span style="color:#444;">
-    with Stefano Carattini, Fabian Dvorak, and Ivana Logar
-  </span>  
-  <br>
-  <span style="font-size:0.95em; color:#666;">
-    Revise and Resubmit at
-  </span> 
-  <em style="color:#1a4fb3; font-weight:600;">
-    Journal of Environmental Economics and Management
-  </em>
-
-  <div style="margin-top:0.4em; font-size:0.9em;">
-    Working papers:
-    <a href="https://cepr.org/publications/dp20843" target="_blank">CEPR DP20843</a> ·
-    <a href="https://www.cesifo.org/en/publications/2025/working-paper/demand-carbon-neutral-products" target="_blank">CESifo WP 12232</a>
-  </div>
-
-  <div style="margin-top:0.3em; font-size:0.9em; color:#555;">
-    Presented at the <em>JEEM/REE Workshop on Non-Market Valuation</em>
-  </div>
-
-  <details style="margin-top:0.8em;">
-    <summary style="cursor:pointer; font-weight:600;">Abstract</summary>
-    <p style="margin-top:0.6em; font-size:0.95em; color:#333;">
-      Corporate social responsibility and the private provision of (global) public goods are of key interest to economists and policymakers. Over the last few years, many more private companies made their operations carbon neutral. It is an empirical question how consumers value carbon-neutral and low-carbon products, which we address as follows. First, we provide a meta-analysis of the literature. We analyze consumers' demand for carbon-neutral and low-carbon products, based on an overall sample of 29,666 participants. The focus is on average willingness to pay for carbon reductions as well as on the characteristics of the underlying literature, which is mainly based on stated preferences and controlled environments. Second, we leverage information on prices and product characteristics from one of the largest online marketplaces, Amazon's. Using a hedonic approach, we infer from revealed preferences on consumers' valuation of carbon-neutral products. The staggered process of carbon-neutral certification leads to a series of quasi-natural experiments, which we use for identification purposes. We find that the literature suggests a positive willingness to pay for carbon reductions that exceeds most estimates of the social cost of carbon. However, this finding is not supported by the hedonic analyses, where we do not find evidence that consumers value carbon neutrality.
-    </p>
-  </details>
+</details>
 
 </div>
 
-<hr style="margin:2em 0;">
+<hr>
+
+<div style="margin-bottom:2em;">
+
+<a href="https://www.cesifo.org/en/publications/2025/working-paper/demand-carbon-neutral-products" target="_blank">
+<strong style="font-size:1.15em; color:#1a4fb3;">
+Demand for carbon-neutral products
+</strong></a>, with Stefano Carattini, Fabian Dvorak, and Ivana Logar  
+— <span style="color:#666;">Revise and Resubmit at</span> 
+<strong style="color:#1a4fb3;"><em>Journal of Environmental Economics and Management</em></strong>  
+<br>
+
+<span style="font-size:0.85em; color:#666;">
+Working papers:
+<a href="https://cepr.org/publications/dp20843" target="_blank" style="color:inherit; text-decoration:underline;">
+CEPR DP20843
+</a> ·
+<a href="https://www.cesifo.org/en/publications/2025/working-paper/demand-carbon-neutral-products" target="_blank" style="color:inherit; text-decoration:underline;">
+CESifo WP 12232
+</a>
+</span>
+<br>
+
+Presented at the <em>JEEM/REE Workshop on Non-Market Valuation</em>
+
+<details style="margin-top:0.5em;">
+<summary style="cursor:pointer;"><strong>Abstract</strong></summary>
+
+<p style="font-size:0.95em; line-height:1.45; margin-top:0.6em;">
+Corporate social responsibility and the private provision of (global) public goods are of key interest to economists and policymakers. Over the last few years, many more private companies made their operations carbon neutral. It is an empirical question how consumers value carbon-neutral and low-carbon products, which we address as follows. First, we provide a meta-analysis of the literature. We analyze consumers' demand for carbon-neutral and low-carbon products, based on an overall sample of 29,666 participants. The focus is on average willingness to pay for carbon reductions as well as on the characteristics of the underlying literature, which is mainly based on stated preferences and controlled environments. Second, we leverage information on prices and product characteristics from one of the largest online marketplaces, Amazon's. Using a hedonic approach, we infer from revealed preferences on consumers' valuation of carbon-neutral products. The staggered process of carbon-neutral certification leads to a series of quasi-natural experiments, which we use for identification purposes. We find that the literature suggests a positive willingness to pay for carbon reductions that exceeds most estimates of the social cost of carbon. However, this finding is not supported by the hedonic analyses, where we do not find evidence that consumers value carbon neutrality.
+</p>
+
+</details>
+
+</div>
+<hr>
 
 ## Publications Prior to Doctoral Studies
 
-<p style="line-height:1.6;">
-  Neyapti, Bilin, and Özdemir Oluk, Begüm. (2021). 
-  <a href="https://www.sciencedirect.com/science/article/pii/S0939362521000571">
-    "Fiscal Transfers in Turkey: Do Politics Matter?"
-  </a>
-  <em>Economic Systems</em>, 45(3), 100909.
+<p>
+Neyapti, Bilin, and Özdemir Oluk, Begüm. 2021.
+<a href="https://www.sciencedirect.com/science/article/pii/S0939362521000571">
+"Fiscal Transfers in Turkey: Do Politics Matter?"</a>
+<em>Economic Systems</em> 45(3): 100909.
 </p>
