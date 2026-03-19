@@ -14,7 +14,13 @@ Transparency of carbon-neutral labels: evidence from a choice experiment
 <em>(job market paper)</em> — <span style="color:#666; font-weight:600;">Submitted</span>  
 <br>
 <span style="font-size:0.85em; color:#666;"> 
-Working paper: SSRN · Pre-registration
+Working paper:
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6251758" target="_blank" style="color:inherit; text-decoration:none;">
+SSRN
+</a> ·
+<a href="https://www.socialscienceregistry.org/trials/12520" target="_blank" style="color:inherit; text-decoration:none;">
+Pre-registration
+</a>
 </span>
 
 <details style="margin-top:0.5em;">
@@ -46,11 +52,17 @@ Working paper: SSRN · Pre-registration
 Demand for carbon-neutral products
 </span>, with Stefano Carattini, Fabian Dvorak, and Ivana Logar  
 — <span style="color:#666; font-weight:600;">Revise and Resubmit</span> at 
-<em style="color:#1a4fb3;">Journal of Environmental Economics and Management (JEEM)</em>  
+<span style="color:#666; font-weight:600;"><em>Journal of Environmental Economics and Management (JEEM)</em></span>  
 <br>
 
 <span style="font-size:0.85em; color:#666;">
-Working papers: CEPR DP20843 · CESifo WP 12232
+Working papers:
+<a href="https://cepr.org/publications/dp20843" target="_blank" style="color:inherit; text-decoration:none;">
+CEPR DP20843
+</a> ·
+<a href="https://www.cesifo.org/en/publications/2025/working-paper/demand-carbon-neutral-products" target="_blank" style="color:inherit; text-decoration:none;">
+CESifo WP 12232
+</a>
 </span>
 <br>
 
@@ -71,6 +83,8 @@ Corporate social responsibility and the private provision of (global) public goo
 
 <p>
 Neyapti, Bilin, and Özdemir Oluk, Begüm. 2021.
+<a href="https://www.sciencedirect.com/science/article/pii/S0939362521000571" target="_blank" style="color:inherit; text-decoration:none;">
 "Fiscal Transfers in Turkey: Do Politics Matter?"
+</a>
 <em>Economic Systems</em> 45(3): 100909.
 </p>
