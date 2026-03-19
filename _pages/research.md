@@ -8,20 +8,13 @@ author_profile: true
 
 <div style="margin-bottom:2em;">
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6251758" target="_blank" style="text-decoration:none; color:inherit;">
-<span style="font-size:1.15em; color:#1a4fb3;">
+<span style="font-size:1.15em; color:#1a4fb3; font-weight:600;">
 Transparency of carbon-neutral labels: evidence from a choice experiment
-</span></a>  
-<em>(job market paper)</em> — <span style="color:#666;">Submitted</span>  
+</span>  
+<em>(job market paper)</em> — <span style="color:#666; font-weight:600;">Submitted</span>  
 <br>
 <span style="font-size:0.85em; color:#666;"> 
-Working paper:
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6251758" target="_blank" style="text-decoration:none; color:inherit;">
-SSRN
-</a> ·
-<a href="https://www.socialscienceregistry.org/trials/12520" style="color:inherit; text-decoration:none;">
-Pre-registration
-</a>
+Working paper: SSRN · Pre-registration
 </span>
 
 <details style="margin-top:0.5em;">
@@ -49,22 +42,15 @@ Pre-registration
 
 <div style="margin-bottom:2em;">
 
-<a href="https://www.cesifo.org/en/publications/2025/working-paper/demand-carbon-neutral-products" target="_blank" style="text-decoration:none; color:inherit;">
-<span style="font-size:1.15em; color:#1a4fb3;">
+<span style="font-size:1.15em; color:#1a4fb3; font-weight:600;">
 Demand for carbon-neutral products
-</span></a>, with Stefano Carattini, Fabian Dvorak, and Ivana Logar  
-— <span style="color:#666;">Revise and Resubmit at</span> 
-<em style="color:#1a4fb3;">Journal of Environmental Economics and Management (JEEM) </em>  
+</span>, with Stefano Carattini, Fabian Dvorak, and Ivana Logar  
+— <span style="color:#666; font-weight:600;">Revise and Resubmit</span> at 
+<em style="color:#1a4fb3;">Journal of Environmental Economics and Management (JEEM)</em>  
 <br>
 
 <span style="font-size:0.85em; color:#666;">
-Working papers:
-<a href="https://cepr.org/publications/dp20843" target="_blank" style="color:inherit; text-decoration:none;">
-CEPR DP20843
-</a> ·
-<a href="https://www.cesifo.org/en/publications/2025/working-paper/demand-carbon-neutral-products" target="_blank" style="color:inherit; text-decoration:none;">
-CESifo WP 12232
-</a>
+Working papers: CEPR DP20843 · CESifo WP 12232
 </span>
 <br>
 
@@ -78,13 +64,13 @@ Corporate social responsibility and the private provision of (global) public goo
 </details>
 
 </div>
+
 <hr>
 
 ## Publications Prior to Doctoral Studies
 
 <p>
 Neyapti, Bilin, and Özdemir Oluk, Begüm. 2021.
-<a href="https://www.sciencedirect.com/science/article/pii/S0939362521000571" style="text-decoration:none; color:inherit;">
-"Fiscal Transfers in Turkey: Do Politics Matter?"</a>
+"Fiscal Transfers in Turkey: Do Politics Matter?"
 <em>Economic Systems</em> 45(3): 100909.
 </p>
