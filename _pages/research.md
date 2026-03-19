@@ -24,7 +24,7 @@ Pre-registration
 <summary style="cursor:pointer;"><strong>Abstract</strong></summary>
 
 <p style="font-size:0.95em; line-height:1.45; margin-top:0.6em;">
-  This paper examines whether transparency affects consumers’ willingness to pay for
+  This paper examines whether transparency affects consumers' willingness to pay for
   carbon-neutral labels. Many companies label products as carbon neutral, yet these
   labels do not disclose the shares of CO<sub>2</sub> offsetting and CO<sub>2</sub> reduction underlying the
   claim. The EU has recently adopted rules to prohibit environmental claims that rely on
@@ -49,7 +49,7 @@ Pre-registration
 <strong style="font-size:1.15em; color:#1a4fb3;">
 Demand for carbon-neutral products
 </strong></a>, with Stefano Carattini, Fabian Dvorak, and Ivana Logar  
-— <strong>Submitted</strong>  
+— <strong>Revise and Resubmit, <em>Journal of Environmental Economics and Management</em></strong>  
 <br>
 
 <span style="font-size:0.85em; color:#666;">
