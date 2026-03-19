@@ -12,7 +12,7 @@ author_profile: true
 <strong style="font-size:1.15em; color:#1a4fb3;">
 Transparency of carbon-neutral labels: evidence from a choice experiment
 </strong></a>  
-<em>(job market paper)</em> — <strong>Submitted</strong>  
+<em>(job market paper)</em> — <span style="color:#666;">Submitted</span>  
 <br>
 <span style="font-size:0.85em; color:#666;"> 
 <a href="https://www.socialscienceregistry.org/trials/12520" style="color:inherit; text-decoration:underline;">
@@ -47,10 +47,9 @@ Pre-registration
 
 <a href="https://www.cesifo.org/en/publications/2025/working-paper/demand-carbon-neutral-products" target="_blank">
 <strong style="font-size:1.15em; color:#1a4fb3;">
-Demand for carbon-neutral products
-</strong></a>, with Stefano Carattini, Fabian Dvorak, and Ivana Logar  
+Demand for carbon-neutral products</strong></a>, with Stefano Carattini, Fabian Dvorak, and Ivana Logar  
 — <span style="color:#666;">Revise and Resubmit at</span> 
-<strong style="color:#1a4fb3;"><em>Journal of Environmental Economics and Management</em></strong>  
+<em style="color:#1a4fb3;">Journal of Environmental Economics and Management</em>  
 <br>
 
 <span style="font-size:0.85em; color:#666;">
@@ -63,8 +62,6 @@ CESifo WP 12232
 </a>
 </span>
 <br>
-
-Presented at the <em>JEEM/REE Workshop on Non-Market Valuation</em>
 
 <details style="margin-top:0.5em;">
 <summary style="cursor:pointer;"><strong>Abstract</strong></summary>
