@@ -11,7 +11,7 @@ author_profile: true
 <span style="font-size:1.15em; color:#1a4fb3; font-weight:600;">
 Transparency of carbon-neutral labels: evidence from a choice experiment
 </span>  
-<em>(job market paper)</em> — <span style="color:#666; font-weight:600;">Submitted</span>  
+(job market paper) — <span style="color:#666; font-weight:600;">Submitted</span>  
 <br>
 
 <span style="font-size:0.85em; color:#666;"> 
@@ -52,8 +52,7 @@ AEA RCT Registry
 <div style="margin-bottom:2em;">
 
 <span style="font-size:1.15em; color:#1a4fb3; font-weight:600;">
-Demand for carbon-neutral products
-</span>, with Stefano Carattini, Fabian Dvorak, and Ivana Logar  
+Demand for carbon-neutral products</span>, with Stefano Carattini, Fabian Dvorak, and Ivana Logar  
 — <span style="color:#666; font-weight:600;">
 Revise and Resubmit at <em>Journal of Environmental Economics and Management (JEEM)</em>
 </span>  
@@ -65,7 +64,7 @@ Working papers:
 CEPR DP20843
 </a> ·
 <a href="https://www.cesifo.org/en/publications/2025/working-paper/demand-carbon-neutral-products" target="_blank" style="color:inherit; text-decoration:none;">
-CESifo WP 12232
+CESifo WP12232
 </a>
 </span>
 <br>
