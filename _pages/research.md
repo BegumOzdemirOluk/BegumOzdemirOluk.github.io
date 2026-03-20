@@ -87,7 +87,7 @@ Corporate social responsibility and the private provision of (global) public goo
 <p>
 Neyapti, B., &amp; Özdemir Oluk, B. (2021).
 <a href="https://www.sciencedirect.com/science/article/pii/S0939362521000571" target="_blank"
-style="color:inherit !important; text-decoration:none !important; border-bottom:none !important; box-shadow:none !important; font-weight:normal !important;">
+style="color:#1a4fb3 !important; text-decoration:none !important; border-bottom:none !important; box-shadow:none !important; font-weight:normal !important;">
 Fiscal transfers in Turkey: Do politics matter?
 </a>.
 <em>Economic Systems</em> 45(3), 100909.
