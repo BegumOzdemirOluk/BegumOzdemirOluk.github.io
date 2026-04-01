@@ -11,7 +11,7 @@ redirect_from:
 <div style="margin-top:0.5em;">
 
 <p style="font-size:1.05em; line-height:1.6; margin-bottom:1.2em;">
-I am a doctoral candidate at the University of St. Gallen
+I am a doctoral candidate in economics and finance at the University of St. Gallen
 (<a href="https://www.unisg.ch/en/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1a73e8;">HSG</a>). My primary research interests involve environmental and behavioral economics.<br><br>
 I successfully defended my dissertation in March 2026.
 </p>
