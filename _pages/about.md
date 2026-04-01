@@ -12,8 +12,8 @@ redirect_from:
 
 <p style="font-size:1.05em; line-height:1.6; margin-bottom:1.2em;">
 I am a doctoral candidate at the University of St. Gallen
-(<a href="https://www.unisg.ch/en/" target="_blank">HSG</a>).
-My primary research interests involve environmental and behavioral economics.
+(<a href="https://www.unisg.ch/en/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1a73e8;">HSG</a>). My primary research interests involve environmental and behavioral economics.<br><br>
+I successfully defended my doctoral thesis in March 2026.
 </p>
 
 <div style="padding:1em 1.1em; border:1px solid #e6e6e6; border-radius:12px; background:#fafafa; max-width:680px;">
@@ -23,7 +23,7 @@ My primary research interests involve environmental and behavioral economics.
 
   <div style="margin:0.25em 0;">
     <strong>E-mail:</strong>
-    <a href="mailto:begum.ozdemiroluk@unisg.ch">begum.ozdemiroluk@unisg.ch</a>
+    <a href="mailto:begum.ozdemiroluk@unisg.ch" style="text-decoration:none; color:#1a73e8;">begum.ozdemiroluk@unisg.ch</a>
   </div>
 
   <div style="margin-top:0.6em; color:#555; font-size:0.95em; line-height:1.5;">
