@@ -24,6 +24,11 @@ Pre-registration:
 <a href="https://www.socialscienceregistry.org/trials/12520" target="_blank" style="color:inherit; text-decoration:none;">
 AEA RCT Registry
 </a>
+<br>
+Slide deck:
+<a href="/files/B_OzdemirOluk_JMP_slides.pdf" target="_blank" style="color:inherit; text-decoration:none;">
+PDF
+</a>
 </span>
 
 <details style="margin-top:0.5em;">
