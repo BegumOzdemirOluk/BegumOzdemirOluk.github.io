@@ -14,20 +14,20 @@ Transparency of carbon-neutral labels: evidence from a choice experiment
 (job market paper) — <span style="color:#666; font-weight:600;">Submitted</span>  
 <br>
 
-<span style="font-size:0.85em; color:#666;"> 
+<span style="font-size:0.85em; color:#666;">
 Working paper:
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6251758" target="_blank" style="color:inherit; text-decoration:none;">
 SSRN
+</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+Slide deck:
+<a href="/files/B_OzdemirOluk_JMP_slides.pdf" target="_blank" style="color:inherit; text-decoration:none;">
+PDF
 </a>
 <br>
 Pre-registration:
 <a href="https://www.socialscienceregistry.org/trials/12520" target="_blank" style="color:inherit; text-decoration:none;">
 AEA RCT Registry
-</a>
-<br>
-Slide deck:
-<a href="/files/B_OzdemirOluk_JMP_slides.pdf" target="_blank" style="color:inherit; text-decoration:none;">
-PDF
 </a>
 </span>
 
