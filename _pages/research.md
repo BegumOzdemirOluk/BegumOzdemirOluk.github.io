@@ -10,8 +10,8 @@ author_profile: true
 
 <span style="font-size:1.15em; color:#1a4fb3; font-weight:600;">
 Transparency of carbon-neutral labels: evidence from a choice experiment
-</span>  
-(job market paper) — <span style="color:#666; font-weight:600;">Under Review</span>  
+</span> 
+(job market paper) — <span style="color:#666; font-weight:600;">Revise and Resubmit at <em>Environmental and Resource Economics</em> (ERE)
 <br>
 
 <span style="font-size:0.85em; color:#666;">
