@@ -90,11 +90,11 @@ author:
   name             : "Begüm Özdemir Oluk"
   avatar           : "profilebegumozdemiroluk.jpg"
   bio              : " "
-  location         : "Zürich"
+  location         : "Boston, MA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=PC-7iuEAAAAJ&hl=en&oi=ao"
-  email            : "begum.ozdemiroluk@eawag.ch"
+  email            : "begum.ozdemiroluk@unisg.ch"
   researchgate     :  "https://www.researchgate.net/profile/Beguem-Oezdemir-Oluk"
   uri              :
   bitbucket        :
@@ -110,7 +110,11 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :  "begum-ozdemir-oluk-636b6799/"
-  orcid            : 
+  orcid            : "0000-0002-4451-309X"
+  links            :
+    - label: "Bluesky"
+      icon: "fab fa-bluesky"
+      url: "https://bsky.app/profile/begumozdemiroluk.bsky.social"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
