@@ -110,11 +110,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :  "begum-ozdemir-oluk-636b6799/"
-  orcid            : "0000-0002-4451-309X"
-  links            :
-    - label: "Bluesky"
-      icon: "fab fa-bluesky"
-      url: "https://bsky.app/profile/begumozdemiroluk.bsky.social"
+  orcid            : "https://orcid.org/0000-0002-4451-309X"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
