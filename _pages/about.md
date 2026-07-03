@@ -10,7 +10,7 @@ redirect_from:
 <div style="margin-top:0.5em;">
 <p style="font-size:1.05em; line-height:1.6; margin-bottom:1.2em;">
 I completed my doctoral studies in economics and finance at the University of St. Gallen
-(<a href="https://www.unisg.ch/en/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1a73e8;">HSG</a>). I defended my dissertation in March 2026. My primary research interests involve environmental and behavioral economics. <br><br>
+(<a href="https://www.unisg.ch/en/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1a73e8;">HSG</a>), defending my dissertation in March 2026. My primary research interests involve environmental and behavioral economics. <br><br>
 I am relocating to Boston, MA in September 2026 and I am open to academic opportunities.
 </p>
 <div style="padding:1em 1.1em; border:1px solid #e6e6e6; border-radius:12px; background:#fafafa; max-width:680px;">
