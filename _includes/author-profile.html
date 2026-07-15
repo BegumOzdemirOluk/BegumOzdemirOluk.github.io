@@ -46,6 +46,11 @@
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
       {% endif %}
+      {% if author.bluesky %}
+       <li><a href="{{ author.bluesky }}" itemprop="sameAs">
+       <i class="fab fa-fw fa-bluesky" aria-hidden="true"></i> Bluesky
+      </a></li>
+      {% endif %}
       {% if author.google_plus %}
         <li><a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a></li>
       {% endif %}
@@ -111,11 +116,6 @@
       {% endif %}
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="fab fa-fw fa-orcid" aria-hidden="true"></i> ORCID</a></li>
-      {% endif %}
-      {% if author.bluesky %}
-       <li><a href="{{ author.bluesky }}" itemprop="sameAs">
-       <i class="fab fa-fw fa-bluesky" aria-hidden="true"></i> Bluesky
-      </a></li>
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
