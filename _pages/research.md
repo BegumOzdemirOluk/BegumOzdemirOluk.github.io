@@ -59,7 +59,7 @@ AEA RCT Registry
 <span style="font-size:1.15em; color:#1a4fb3; font-weight:600;">
 Demand for carbon-neutral products</span>, with Stefano Carattini, Fabian Dvorak, and Ivana Logar  
 — <span style="color:#666; font-weight:600;">
-Resubmitted at <em>Journal of Environmental Economics and Management (JEEM)</em>
+Resubmitted to <em>Journal of Environmental Economics and Management (JEEM)</em>
 </span>  
 <br>
 
