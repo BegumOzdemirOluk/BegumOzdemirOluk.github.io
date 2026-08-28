@@ -3,7 +3,10 @@
 url: http://localhost:4000
 
 analytics:
-  provider: false
+  provider: "google-analytics-4"
+
+google:
+  tracking_id: "G-1PPV3RVMPM"
 
 comments:
   disqus:
