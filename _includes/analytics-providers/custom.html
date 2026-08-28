@@ -29,7 +29,9 @@
   });
 
   function loadGoogleAnalytics() {
-    if (window.__gaLoaded) return;
+    if (window.__gaLoaded) {
+      return;
+    }
 
     window.__gaLoaded = true;
 
@@ -46,7 +48,8 @@
   }
 
   function removeBanner() {
-    const banner = document.getElementById("analytics-consent-banner");
+    const banner =
+      document.getElementById("analytics-consent-banner");
 
     if (banner) {
       banner.remove();
@@ -54,7 +57,8 @@
   }
 
   function removeSettingsLink() {
-    const settings = document.getElementById("analytics-settings-link");
+    const settings =
+      document.getElementById("analytics-settings-link");
 
     if (settings) {
       settings.remove();
@@ -110,7 +114,9 @@
   }
 
   function showBanner() {
-    if (document.getElementById("analytics-consent-banner")) {
+    if (
+      document.getElementById("analytics-consent-banner")
+    ) {
       return;
     }
 
@@ -160,12 +166,11 @@
 
     Object.assign(banner.style, {
       position: "fixed",
-      left: "50%",
-      bottom: "28px",
-      transform: "translateX(-50%)",
+      left: "20px",
+      bottom: "20px",
       zIndex: "99999",
       width: "390px",
-      maxWidth: "calc(100vw - 32px)",
+      maxWidth: "calc(100vw - 40px)",
       background: "#ffffff",
       color: "#222222",
       border: "1px solid #d8d8d8",
@@ -178,30 +183,40 @@
 
     document.body.appendChild(banner);
 
-    banner.querySelectorAll("button").forEach(function (button) {
-      Object.assign(button.style, {
-        padding: "6px 13px",
-        fontSize: "13px",
-        cursor: "pointer",
-        background: "#ffffff",
-        color: "#222222",
-        border: "1px solid #999999",
-        borderRadius: "4px",
-        fontFamily: "inherit"
+    banner
+      .querySelectorAll("button")
+      .forEach(function (button) {
+        Object.assign(button.style, {
+          padding: "6px 13px",
+          fontSize: "13px",
+          cursor: "pointer",
+          background: "#ffffff",
+          color: "#222222",
+          border: "1px solid #999999",
+          borderRadius: "4px",
+          fontFamily: "inherit"
+        });
       });
-    });
 
     document
       .getElementById("analytics-accept")
-      .addEventListener("click", grantAnalytics);
+      .addEventListener(
+        "click",
+        grantAnalytics
+      );
 
     document
       .getElementById("analytics-reject")
-      .addEventListener("click", denyAnalytics);
+      .addEventListener(
+        "click",
+        denyAnalytics
+      );
   }
 
   function showSettingsLink() {
-    if (document.getElementById("analytics-settings-link")) {
+    if (
+      document.getElementById("analytics-settings-link")
+    ) {
       return;
     }
 
@@ -234,7 +249,8 @@
   }
 
   async function initialiseAnalytics() {
-    const savedConsent = localStorage.getItem(STORAGE_KEY);
+    const savedConsent =
+      localStorage.getItem(STORAGE_KEY);
 
     if (savedConsent === "granted") {
       gtag("consent", "update", {
@@ -255,7 +271,8 @@
     }
 
     try {
-      const response = await fetch("https://api.country.is/");
+      const response =
+        await fetch("https://api.country.is/");
 
       if (!response.ok) {
         throw new Error("Geolocation failed");
