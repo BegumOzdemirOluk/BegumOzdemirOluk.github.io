@@ -1,12 +1,246 @@
 <!-- start custom analytics snippet -->
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1PPV3RVMPM"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+(function () {
+  const GA_ID = "G-1PPV3RVMPM";
 
-  gtag('config', 'G-1PPV3RVMPM');
+  // EU + EEA + United Kingdom + Türkiye
+  const CONSENT_COUNTRIES = new Set([
+    "AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR",
+    "DE","GR","HU","IE","IT","LV","LT","LU","MT","NL",
+    "PL","PT","RO","SK","SI","ES","SE",
+    "IS","LI","NO",
+    "GB",
+    "TR"
+  ]);
+
+  const STORAGE_KEY = "analytics-consent";
+
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = window.gtag || function () {
+    dataLayer.push(arguments);
+  };
+
+  // Default: no analytics until we know the visitor's region/choice.
+  gtag("consent", "default", {
+    analytics_storage: "denied",
+    ad_storage: "denied",
+    ad_user_data: "denied",
+    ad_personalization: "denied",
+    wait_for_update: 500
+  });
+
+  function loadGoogleAnalytics() {
+    if (window.__gaLoaded) return;
+    window.__gaLoaded = true;
+
+    const script = document.createElement("script");
+    script.async = true;
+    script.src =
+      "https://www.googletagmanager.com/gtag/js?id=" +
+      encodeURIComponent(GA_ID);
+    document.head.appendChild(script);
+
+    gtag("js", new Date());
+    gtag("config", GA_ID);
+  }
+
+  function grantAnalytics() {
+    localStorage.setItem(STORAGE_KEY, "granted");
+
+    gtag("consent", "update", {
+      analytics_storage: "granted",
+      ad_storage: "denied",
+      ad_user_data: "denied",
+      ad_personalization: "denied"
+    });
+
+    removeBanner();
+    showSettingsLink();
+    loadGoogleAnalytics();
+  }
+
+  function deleteAnalyticsCookies() {
+    document.cookie.split(";").forEach(function (cookie) {
+      const name = cookie.split("=")[0].trim();
+
+      if (name.indexOf("_ga") === 0) {
+        document.cookie =
+          name +
+          "=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/; SameSite=Lax";
+      }
+    });
+  }
+
+  function denyAnalytics() {
+    const wasLoaded = !!window.__gaLoaded;
+
+    localStorage.setItem(STORAGE_KEY, "denied");
+
+    gtag("consent", "update", {
+      analytics_storage: "denied",
+      ad_storage: "denied",
+      ad_user_data: "denied",
+      ad_personalization: "denied"
+    });
+
+    deleteAnalyticsCookies();
+    removeBanner();
+    showSettingsLink();
+
+    // If Analytics had already been loaded, reload so it is completely
+    // absent from subsequent page activity.
+    if (wasLoaded) {
+      location.reload();
+    }
+  }
+
+  function removeBanner() {
+    const banner = document.getElementById("analytics-consent-banner");
+    if (banner) banner.remove();
+  }
+
+  function showBanner() {
+    if (document.getElementById("analytics-consent-banner")) return;
+
+    const banner = document.createElement("div");
+    banner.id = "analytics-consent-banner";
+
+    banner.innerHTML = `
+      <div style="max-width:760px;margin:auto;">
+        <div style="margin-bottom:10px;">
+          This website uses optional Google Analytics cookies to understand
+          aggregate website usage. You can accept or reject analytics cookies.
+          <a href="https://policies.google.com/privacy"
+             target="_blank"
+             rel="noopener"
+             style="color:inherit;text-decoration:underline;">
+             Google Privacy Policy
+          </a>
+        </div>
+
+        <div style="display:flex;gap:8px;flex-wrap:wrap;">
+          <button id="analytics-accept"
+            style="padding:7px 14px;cursor:pointer;border:1px solid #555;
+                   border-radius:4px;background:#fff;color:#222;">
+            Accept analytics
+          </button>
+
+          <button id="analytics-reject"
+            style="padding:7px 14px;cursor:pointer;border:1px solid #555;
+                   border-radius:4px;background:#fff;color:#222;">
+            Reject
+          </button>
+        </div>
+      </div>
+    `;
+
+    Object.assign(banner.style, {
+      position: "fixed",
+      left: "0",
+      right: "0",
+      bottom: "0",
+      zIndex: "99999",
+      background: "#f5f5f5",
+      color: "#222",
+      borderTop: "1px solid #ccc",
+      padding: "14px 20px",
+      fontSize: "14px",
+      lineHeight: "1.45",
+      boxShadow: "0 -2px 8px rgba(0,0,0,0.08)"
+    });
+
+    document.body.appendChild(banner);
+
+    document.getElementById("analytics-accept")
+      .addEventListener("click", grantAnalytics);
+
+    document.getElementById("analytics-reject")
+      .addEventListener("click", denyAnalytics);
+  }
+
+  function showSettingsLink() {
+    if (document.getElementById("analytics-settings-link")) return;
+
+    const button = document.createElement("button");
+    button.id = "analytics-settings-link";
+    button.textContent = "Analytics settings";
+
+    Object.assign(button.style, {
+      position: "fixed",
+      left: "8px",
+      bottom: "6px",
+      zIndex: "9998",
+      border: "0",
+      background: "transparent",
+      padding: "2px",
+      cursor: "pointer",
+      fontSize: "11px",
+      textDecoration: "underline",
+      opacity: "0.65"
+    });
+
+    button.addEventListener("click", function () {
+      showBanner();
+    });
+
+    document.body.appendChild(button);
+  }
+
+  async function initialiseAnalytics() {
+    const savedConsent = localStorage.getItem(STORAGE_KEY);
+
+    if (savedConsent === "granted") {
+      gtag("consent", "update", {
+        analytics_storage: "granted",
+        ad_storage: "denied",
+        ad_user_data: "denied",
+        ad_personalization: "denied"
+      });
+
+      loadGoogleAnalytics();
+      showSettingsLink();
+      return;
+    }
+
+    if (savedConsent === "denied") {
+      showSettingsLink();
+      return;
+    }
+
+    try {
+      const response = await fetch("https://api.country.is/");
+      if (!response.ok) throw new Error("Geolocation failed");
+
+      const data = await response.json();
+      const country = data.country;
+
+      if (CONSENT_COUNTRIES.has(country)) {
+        showBanner();
+      } else {
+        // Outside consent-targeted regions: Analytics runs normally.
+        gtag("consent", "update", {
+          analytics_storage: "granted",
+          ad_storage: "denied",
+          ad_user_data: "denied",
+          ad_personalization: "denied"
+        });
+
+        loadGoogleAnalytics();
+      }
+    } catch (error) {
+      // Privacy-safe fallback: if location cannot be determined,
+      // ask for consent rather than loading Analytics automatically.
+      showBanner();
+    }
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initialiseAnalytics);
+  } else {
+    initialiseAnalytics();
+  }
+})();
 </script>
 
 <!-- end custom analytics snippet -->
