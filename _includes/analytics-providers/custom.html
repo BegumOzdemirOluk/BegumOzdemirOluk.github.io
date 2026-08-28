@@ -4,7 +4,6 @@
 (function () {
   const GA_ID = "G-1PPV3RVMPM";
 
-  // EU + EEA + United Kingdom + Türkiye
   const CONSENT_COUNTRIES = new Set([
     "AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR",
     "DE","GR","HU","IE","IT","LV","LT","LU","MT","NL",
@@ -21,7 +20,6 @@
     dataLayer.push(arguments);
   };
 
-  // Default: no analytics until we know the visitor's region/choice.
   gtag("consent", "default", {
     analytics_storage: "denied",
     ad_storage: "denied",
@@ -88,8 +86,6 @@
     removeBanner();
     showSettingsLink();
 
-    // If Analytics had already been loaded, reload so it is completely
-    // absent from subsequent page activity.
     if (wasLoaded) {
       location.reload();
     }
@@ -218,7 +214,6 @@
       if (CONSENT_COUNTRIES.has(country)) {
         showBanner();
       } else {
-        // Outside consent-targeted regions: Analytics runs normally.
         gtag("consent", "update", {
           analytics_storage: "granted",
           ad_storage: "denied",
@@ -229,8 +224,6 @@
         loadGoogleAnalytics();
       }
     } catch (error) {
-      // Privacy-safe fallback: if location cannot be determined,
-      // ask for consent rather than loading Analytics automatically.
       showBanner();
     }
   }
