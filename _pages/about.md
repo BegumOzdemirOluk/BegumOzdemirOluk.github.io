@@ -31,8 +31,9 @@ I completed my doctoral studies in economics and finance at the University of St
 </div>
 
 <div style="margin-top:4.5em; margin-bottom:1.5em;">
+
   <div style="font-weight:700; font-size:1.05em; margin-bottom:1em;">
-    Latest News
+    Latest Updates
   </div>
 
   <div style="margin-bottom:0.9em; line-height:1.5;">
@@ -44,7 +45,7 @@ I completed my doctoral studies in economics and finance at the University of St
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7450850230679498752/"
        target="_blank"
        rel="noopener noreferrer"
-       style="color:#999 !important; text-decoration:underline !important;">Presenting</a>
+       style="color:#999 !important; text-decoration:underline !important;">Presented</a>
     <a href="/files/B_OzdemirOluk_HSG_Poster_2026.pdf"
        target="_blank"
        rel="noopener noreferrer"
@@ -52,7 +53,7 @@ I completed my doctoral studies in economics and finance at the University of St
     at the HSG Academic Poster Session, HSG Responsibility &amp; Sustainability Services, University of St. Gallen, Switzerland.
   </div>
 
-  <div style="margin-bottom:0.9em; line-height:1.5; color:#999;">
+  <div style="margin-bottom:1.2em; line-height:1.5; color:#999;">
     <strong>Apr 2026</strong> –
     <a href="/files/B_OzdemirOluk_JMP_slides.pdf"
        target="_blank"
@@ -60,6 +61,39 @@ I completed my doctoral studies in economics and finance at the University of St
        style="color:#999 !important; text-decoration:underline !important;">Seminar presentation</a>
     at the Institute of Responsible Innovation, Sustainability and Energy (RISE), University of St. Gallen, Switzerland.
   </div>
+
+  <details style="margin-top:0.8em;">
+    <summary style="cursor:pointer; font-size:0.95em; font-weight:600; color:#999;">
+  Previous Updates
+    </summary>
+
+    <div style="
+      max-height:145px;
+      overflow-y:auto;
+      margin-top:0.7em;
+      padding:0.9em 1em;
+      border:1px solid #e8e8e8;
+      border-radius:8px;
+      background:#fafafa;
+      color:#999;
+      font-size:0.95em;
+      line-height:1.5;
+    ">
+
+      <div style="margin-bottom:0.9em;">
+        <strong>Jun 2025</strong> – Presented at the Annual Congress of the Swiss Society of Economics and Statistics (SSES), ETH Zurich, Switzerland.
+      </div>
+
+      <div style="margin-bottom:0.9em;">
+        <strong>Jun 2025</strong> – Presented at the JEEM/REE Workshop on Nonmarket Valuation, Bergen, Norway.
+      </div>
+
+      <div>
+        <strong>Jun 2025</strong> – Presented at the 30th Annual Conference of the European Association of Environmental and Resource Economists (EAERE), Bergen, Norway.
+      </div>
+
+    </div>
+  </details>
 
 </div>
 
