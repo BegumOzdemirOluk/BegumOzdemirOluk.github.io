@@ -113,7 +113,7 @@ I completed my doctoral studies in economics and finance at the University of St
       </div>
 
       <div style="margin-bottom:0.9em;">
-        <strong>Jun 2024</strong> – Participated in the European Association of Environmental and Resource Economists (EAERE) Summer School: Data Science in Environmental Economics Research, Graz, Austria.
+        <strong>Jun 2024</strong> – Presented at the European Association of Environmental and Resource Economists (EAERE) Summer School: Data Science in Environmental Economics Research, Graz, Austria.
       </div>
 
       <div style="margin-bottom:0.9em;">
@@ -125,7 +125,7 @@ I completed my doctoral studies in economics and finance at the University of St
       </div>
 
       <div style="margin-bottom:0.9em;">
-        <strong>Feb 2024</strong> – Participated in the Choice Experiment Clinics, VU Amsterdam, Netherlands.
+        <strong>Feb 2024</strong> – Presented at the Choice Experiment Clinics, VU Amsterdam, Netherlands.
       </div>
 
       <div style="margin-bottom:0.9em;">
