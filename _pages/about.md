@@ -37,7 +37,7 @@ I completed my doctoral studies in economics and finance at the University of St
   </div>
 
   <div style="margin-bottom:0.9em; line-height:1.5;">
-    <strong>Sep 2026</strong> – Relocating to Boston, MA and open to academic opportunities.
+    <strong>Sep 2026</strong> – Relocated to Boston, MA and open to academic opportunities.
   </div>
 
   <div style="margin-bottom:0.9em; line-height:1.5; color:#999;">
