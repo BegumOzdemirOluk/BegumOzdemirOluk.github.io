@@ -4,7 +4,7 @@
 (function () {
   const GA_ID = "G-1PPV3RVMPM";
 
-  // No analytics at all for visitors from these countries (no banner, no collection).
+  /* Visitors from these countries: no banner and no data collection. */
   const NO_TRACKING_COUNTRIES = new Set([
     "AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR",
     "DE","GR","HU","IE","IT","LV","LT","LU","MT","NL",
@@ -14,52 +14,15 @@
     "TR"
   ]);
 
-  // Used only when the IP lookup fails: time zones that may belong to a
-  // no-tracking country. All of Europe is treated as no-tracking here.
+  /* Used only if the country lookup fails: all European time zones and these count as no-tracking. */
   const NO_TRACKING_TIMEZONES = new Set([
     "Asia/Nicosia","Asia/Famagusta","Asia/Istanbul",
     "Atlantic/Reykjavik","Atlantic/Canary","Atlantic/Madeira",
     "Atlantic/Azores","Atlantic/Faroe","Arctic/Longyearbyen"
   ]);
 
-  // Choices saved by the old consent banner are no longer used anywhere.
+  /* Choice saved by the old consent banner; deleted on every visit and never used. */
   const OLD_STORAGE_KEY = "analytics-consent";
-
-  // Visit the site with ?analytics-debug to see a status box.
-  const DEBUG = /[?&]analytics-debug\b/.test(location.search);
-  const debugLines = [];
-
-  function debug(line) {
-    if (!DEBUG) {
-      return;
-    }
-
-    debugLines.push(line);
-
-    let box = document.getElementById("analytics-debug-box");
-
-    if (!box) {
-      box = document.createElement("div");
-      box.id = "analytics-debug-box";
-      Object.assign(box.style, {
-        position: "fixed",
-        left: "16px",
-        bottom: "16px",
-        zIndex: "99999",
-        maxWidth: "calc(100vw - 32px)",
-        background: "#fffbe6",
-        color: "#222",
-        border: "1px solid #e0c200",
-        borderRadius: "8px",
-        padding: "10px 14px",
-        font: "13px/1.5 monospace",
-        whiteSpace: "pre-wrap"
-      });
-      document.body.appendChild(box);
-    }
-
-    box.textContent = "Analytics debug\n" + debugLines.join("\n");
-  }
 
   window.dataLayer = window.dataLayer || [];
   window.gtag = window.gtag || function () {
@@ -112,14 +75,6 @@
       "https://www.googletagmanager.com/gtag/js?id=" +
       encodeURIComponent(GA_ID);
 
-    script.onload = function () {
-      debug("Google Analytics: loaded, this visit is being counted");
-    };
-
-    script.onerror = function () {
-      debug("Google Analytics: BLOCKED by the browser or an extension");
-    };
-
     document.head.appendChild(script);
 
     gtag("js", new Date());
@@ -161,8 +116,6 @@
       tz = Intl.DateTimeFormat().resolvedOptions().timeZone || "";
     } catch (e) {}
 
-    debug("Time zone: " + (tz || "unknown"));
-
     if (!tz || tz.indexOf("Europe/") === 0 || NO_TRACKING_TIMEZONES.has(tz)) {
       return false;
     }
@@ -174,23 +127,15 @@
     clearOldChoice();
 
     const country = await lookupCountry();
-    let track;
-
-    if (country) {
-      debug("Country (from IP): " + country);
-      track = !NO_TRACKING_COUNTRIES.has(country);
-    } else {
-      debug("Country lookup failed, using time zone instead");
-      track = timezoneAllowsTracking();
-    }
+    const track = country
+      ? !NO_TRACKING_COUNTRIES.has(country)
+      : timezoneAllowsTracking();
 
     if (!track) {
-      debug("Google Analytics: not loaded (no-tracking region)");
       deleteAnalyticsCookies();
       return;
     }
 
-    debug("Google Analytics: loading...");
     loadGoogleAnalytics();
   }
 
