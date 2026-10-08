@@ -128,4 +128,78 @@
 
   async function lookupCountry() {
     const controller =
-      typeof AbortController ===
+      typeof AbortController === "function" ? new AbortController() : null;
+    const timer = controller
+      ? setTimeout(function () { controller.abort(); }, 4000)
+      : null;
+
+    try {
+      const response = await fetch(
+        "https://api.country.is/",
+        controller ? { signal: controller.signal } : undefined
+      );
+
+      if (!response.ok) {
+        return null;
+      }
+
+      const data = await response.json();
+      return data.country || null;
+    } catch (e) {
+      return null;
+    } finally {
+      if (timer) {
+        clearTimeout(timer);
+      }
+    }
+  }
+
+  function timezoneAllowsTracking() {
+    let tz = "";
+
+    try {
+      tz = Intl.DateTimeFormat().resolvedOptions().timeZone || "";
+    } catch (e) {}
+
+    debug("Time zone: " + (tz || "unknown"));
+
+    if (!tz || tz.indexOf("Europe/") === 0 || NO_TRACKING_TIMEZONES.has(tz)) {
+      return false;
+    }
+
+    return true;
+  }
+
+  async function initialiseAnalytics() {
+    clearOldChoice();
+
+    const country = await lookupCountry();
+    let track;
+
+    if (country) {
+      debug("Country (from IP): " + country);
+      track = !NO_TRACKING_COUNTRIES.has(country);
+    } else {
+      debug("Country lookup failed, using time zone instead");
+      track = timezoneAllowsTracking();
+    }
+
+    if (!track) {
+      debug("Google Analytics: not loaded (no-tracking region)");
+      deleteAnalyticsCookies();
+      return;
+    }
+
+    debug("Google Analytics: loading...");
+    loadGoogleAnalytics();
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initialiseAnalytics);
+  } else {
+    initialiseAnalytics();
+  }
+})();
+</script>
+
+<!-- end custom analytics snippet -->
