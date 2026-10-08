@@ -20,7 +20,22 @@ I completed my doctoral studies in economics and finance at the University of St
 I am on the 2026–2027 job market.
 </p>
 
-<div style="margin-top:1.5em; margin-bottom:1.5em;">
+<div style="padding:1em 1.1em; border:1px solid #e6e6e6; border-radius:12px; background:#fafafa; max-width:680px; margin:0 auto;">
+  <div style="font-weight:700; font-size:1.05em; margin-bottom:0.6em;">
+    Contact
+  </div>
+
+  <div style="margin:0.25em 0;">
+    <strong>E-mail:</strong>
+    <a href="mailto:begum.ozdemiroluk@unisg.ch" style="text-decoration:none; color:#1a73e8;">begum.ozdemiroluk@unisg.ch</a>
+  </div>
+
+  <div style="margin-top:0.6em; color:#555; font-size:0.95em; line-height:1.5;">
+    Swiss Institute for International Economics and Applied Economic Research (SIAW-HSG)<br>
+  </div>
+</div>
+
+<div style="margin-top:2em; margin-bottom:1.5em;">
 
   <div style="font-weight:700; font-size:1.05em; margin-bottom:1em;">
     Latest Updates
@@ -129,21 +144,6 @@ I am on the 2026–2027 job market.
     </div>
   </details>
 
-</div>
-
-<div style="padding:1em 1.1em; border:1px solid #e6e6e6; border-radius:12px; background:#fafafa; max-width:680px; margin:0 auto;">
-  <div style="font-weight:700; font-size:1.05em; margin-bottom:0.6em;">
-    Contact
-  </div>
-
-  <div style="margin:0.25em 0;">
-    <strong>E-mail:</strong>
-    <a href="mailto:begum.ozdemiroluk@unisg.ch" style="text-decoration:none; color:#1a73e8;">begum.ozdemiroluk@unisg.ch</a>
-  </div>
-
-  <div style="margin-top:0.6em; color:#555; font-size:0.95em; line-height:1.5;">
-    Swiss Institute for International Economics and Applied Economic Research (SIAW-HSG)<br>
-  </div>
 </div>
 
 </div>
