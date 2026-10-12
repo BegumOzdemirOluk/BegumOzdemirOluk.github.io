@@ -4,6 +4,34 @@ permalink: /research/
 author_profile: true
 ---
 
+## Research Overview
+
+<div style="margin-bottom:2em;">
+
+<span style="font-size:0.95em;">
+An overview of my current research and research agenda:
+<a href="/files/B_OzdemirOluk_Research_Statement.pdf" target="_blank" style="color:#1a4fb3; text-decoration:none; font-weight:600;">
+PDF
+</a>
+</span>
+
+<details style="margin-top:0.5em;">
+<summary style="cursor:pointer;"><strong>Summary</strong></summary>
+
+<p style="font-size:0.95em; line-height:1.45; margin-top:0.6em;">
+Firms and governments increasingly rely on environmental labels to guide consumers toward greener products. Governments regulate environmental claims, and firms use them to market their products. Both rest on the same premise: consumers value this information and reward it with their purchases. My research tests this premise. I ask how much consumers value carbon-neutral claims, whether more detailed information changes this value, and whether it is reflected in market prices. I combine preregistered choice experiments, quasi-experimental analysis of online marketplace data, and meta-analysis of existing literature.
+</p>
+
+<p style="font-size:0.95em; line-height:1.45;">
+My findings point to a gap between consumers' stated and revealed preferences for carbon neutrality. Stated preferences imply a positive price premium, but market prices show none. I also find no evidence that more detailed disclosure about how carbon neutrality is achieved increases stated willingness to pay.
+</p>
+
+</details>
+
+</div>
+
+<hr>
+
 ## Working Papers
 
 <div style="margin-bottom:2em;">
