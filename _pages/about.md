@@ -12,7 +12,7 @@ redirect_from:
 
 <p style="font-size:1.05em; line-height:1.6; margin-bottom:1.2em;">
 I completed my doctoral studies in economics and finance at the University of St. Gallen
-(<a href="https://www.unisg.ch/en/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1a73e8;">HSG</a>), <a href="https://www.linkedin.com/posts/begum-ozdemir-oluk-636b6799_i-am-happy-to-share-that-i-have-successfully-ugcPost-7443694344034902016-oFSE/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1a1a2e;">defending</a> my dissertation in March 2026. My primary research interests involve environmental and behavioral economics.
+(<a href="https://www.unisg.ch/en/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1a73e8;">HSG</a>), <a href="https://www.linkedin.com/posts/begum-ozdemir-oluk-636b6799_i-am-happy-to-share-that-i-have-successfully-ugcPost-7443694344034902016-oFSE/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1a1a2e;">defending</a> my dissertation in March 2026. I am a research affiliate at the <a href="https://starlab.wcfia.harvard.edu/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1a73e8;">STAR Lab</a>, <a href="https://www.harvard.edu/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1a73e8;">Harvard University</a>. My primary research interests involve environmental and behavioral economics.
 </p>
 
 
@@ -31,6 +31,7 @@ I am on the 2026–2027 job market.
   </div>
 
   <div style="margin-top:0.6em; color:#555; font-size:0.95em; line-height:1.5;">
+    Sustainability, Transparency and Accountability Research (STAR) Lab, Harvard University<br>
     Swiss Institute for International Economics and Applied Economic Research (SIAW-HSG)<br>
   </div>
 </div>
@@ -39,6 +40,15 @@ I am on the 2026–2027 job market.
 
   <div style="font-weight:700; font-size:1.05em; margin-bottom:1em;">
     Latest Updates
+  </div>
+
+  <div style="margin-bottom:0.9em; line-height:1.5;">
+    <strong>Oct 2026</strong> – Joined the
+    <a href="https://starlab.wcfia.harvard.edu/people/begum-ozdemir-oluk"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:inherit !important; text-decoration:underline !important;">STAR Lab</a>
+    at Harvard University as a research affiliate.
   </div>
 
   <div style="margin-bottom:0.9em; line-height:1.5;">
