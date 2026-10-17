@@ -31,8 +31,11 @@ I am on the 2026–2027 job market.
   </div>
 
   <div style="margin-top:0.6em; color:#555; font-size:0.95em; line-height:1.5;">
-    STAR Lab, Harvard University<br>
-    SIAW-HSG, University of St. Gallen <br>
+    Sustainability, Transparency and Accountability Research (STAR) Lab<br>
+    Harvard University
+    <div style="margin-top:0.5em;"></div>
+    Swiss Institute for International Economics and Applied Economic Research<br>
+    (SIAW-HSG), University of St. Gallen
   </div>
 </div>
 
