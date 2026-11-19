@@ -58,7 +58,7 @@ My primary research interests involve applied behavioral economics and environme
     <strong>Sep 2026</strong> – Relocated to Boston, MA.
   </div>
 
-  <div style="margin-bottom:0.9em; line-height:1.5; color:#999;">
+  <div style="margin-bottom:1.2em; line-height:1.5; color:#999;">
     <strong>Apr 2026</strong> –
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7450850230679498752/"
        target="_blank"
@@ -69,15 +69,6 @@ My primary research interests involve applied behavioral economics and environme
        rel="noopener noreferrer"
        style="color:#999 !important; text-decoration:underline !important;">my research</a>
     at the HSG Academic Poster Session, HSG Responsibility &amp; Sustainability Services, University of St. Gallen, Switzerland.
-  </div>
-
-  <div style="margin-bottom:1.2em; line-height:1.5; color:#999;">
-    <strong>Apr 2026</strong> –
-    <a href="/files/B_OzdemirOluk_JMP_slides.pdf"
-       target="_blank"
-       rel="noopener noreferrer"
-       style="color:#999 !important; text-decoration:underline !important;">Presented</a>
-    at the Institute of Responsible Innovation, Sustainability and Energy (RISE), University of St. Gallen, Switzerland.
   </div>
 
   <details style="margin-top:0.8em;">
@@ -97,6 +88,15 @@ My primary research interests involve applied behavioral economics and environme
       font-size:0.95em;
       line-height:1.5;
     ">
+
+      <div style="margin-bottom:0.9em;">
+        <strong>Apr 2026</strong> –
+        <a href="/files/B_OzdemirOluk_JMP_slides.pdf"
+           target="_blank"
+           rel="noopener noreferrer"
+           style="color:#999 !important; text-decoration:underline !important;">Presented</a>
+        at the Institute of Responsible Innovation, Sustainability and Energy (RISE), University of St. Gallen, Switzerland.
+      </div>
 
       <div style="margin-bottom:0.9em;">
         <strong>Jun 2025</strong> – Presented at the Annual Congress of the Swiss Society of Economics and Statistics (SSES), ETH Zurich, Switzerland.
