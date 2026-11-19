@@ -31,8 +31,10 @@ My primary research interests involve applied behavioral economics and environme
   </div>
 
   <div style="margin-top:0.6em; color:#555; font-size:0.95em; line-height:1.5;">
-    Sustainability, Transparency and Accountability Research (STAR) Lab<br>
-    Weatherhead Center for International Affairs, Harvard University<br>
+    <strong style="color:#333;">Harvard University</strong><br>
+    Weatherhead Center for International Affairs<br>
+    Sustainability, Transparency and Accountability Research (STAR) Lab
+    <div style="margin-top:0.5em;"></div>
     1737 Cambridge Street, Cambridge, MA 02138
   </div>
 </div>
