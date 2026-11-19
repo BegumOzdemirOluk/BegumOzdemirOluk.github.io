@@ -27,15 +27,13 @@ My primary research interests involve applied behavioral economics and environme
 
   <div style="margin:0.25em 0;">
     <strong>E-mail:</strong>
-    <a href="mailto:begum.ozdemiroluk@unisg.ch" style="text-decoration:none; color:#1a73e8;">begum.ozdemiroluk@unisg.ch</a>
+    <a href="mailto:begumozdemiroluk@gmail.com" style="text-decoration:none; color:#1a73e8;">begumozdemiroluk@gmail.com</a>
   </div>
 
   <div style="margin-top:0.6em; color:#555; font-size:0.95em; line-height:1.5;">
     Sustainability, Transparency and Accountability Research (STAR) Lab<br>
-    Harvard University
-    <div style="margin-top:0.5em;"></div>
-    Swiss Institute for International Economics and Applied Economic Research<br>
-    (SIAW-HSG), University of St. Gallen
+    Weatherhead Center for International Affairs, Harvard University<br>
+    1737 Cambridge Street, Cambridge, MA 02138
   </div>
 </div>
 
