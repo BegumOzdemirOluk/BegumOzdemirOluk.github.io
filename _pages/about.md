@@ -54,21 +54,8 @@ My primary research interests involve applied behavioral economics and environme
     at Harvard University as a research affiliate.
   </div>
 
-  <div style="margin-bottom:0.9em; line-height:1.5;">
+  <div style="margin-bottom:1.2em; line-height:1.5;">
     <strong>Sep 2026</strong> – Relocated to Boston, MA.
-  </div>
-
-  <div style="margin-bottom:1.2em; line-height:1.5; color:#999;">
-    <strong>Apr 2026</strong> –
-    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7450850230679498752/"
-       target="_blank"
-       rel="noopener noreferrer"
-       style="color:#999 !important; text-decoration:underline !important;">Presented</a>
-    <a href="/files/B_OzdemirOluk_HSG_Poster_2026.pdf"
-       target="_blank"
-       rel="noopener noreferrer"
-       style="color:#999 !important; text-decoration:underline !important;">my research</a>
-    at the HSG Academic Poster Session, HSG Responsibility &amp; Sustainability Services, University of St. Gallen, Switzerland.
   </div>
 
   <details style="margin-top:0.8em;">
@@ -88,6 +75,19 @@ My primary research interests involve applied behavioral economics and environme
       font-size:0.95em;
       line-height:1.5;
     ">
+
+      <div style="margin-bottom:0.9em;">
+        <strong>Apr 2026</strong> –
+        <a href="https://www.linkedin.com/feed/update/urn:li:activity:7450850230679498752/"
+           target="_blank"
+           rel="noopener noreferrer"
+           style="color:#999 !important; text-decoration:underline !important;">Presented</a>
+        <a href="/files/B_OzdemirOluk_HSG_Poster_2026.pdf"
+           target="_blank"
+           rel="noopener noreferrer"
+           style="color:#999 !important; text-decoration:underline !important;">my research</a>
+        at the HSG Academic Poster Session, HSG Responsibility &amp; Sustainability Services, University of St. Gallen, Switzerland.
+      </div>
 
       <div style="margin-bottom:0.9em;">
         <strong>Apr 2026</strong> –
