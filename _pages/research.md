@@ -8,13 +8,6 @@ author_profile: true
 
 <div style="margin-bottom:2em;">
 
-<span style="font-size:0.95em;">
-An overview of my current research and research agenda:
-<a href="/files/B_OzdemirOluk_Research_Statement.pdf" target="_blank" style="color:#1a4fb3; text-decoration:none; font-weight:600;">
-PDF
-</a>
-</span>
-
 <details style="margin-top:0.5em;">
 <summary style="cursor:pointer;"><strong>Summary</strong></summary>
 
