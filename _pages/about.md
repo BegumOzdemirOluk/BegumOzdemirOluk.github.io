@@ -16,10 +16,6 @@ I completed my doctoral studies in economics and finance at the University of St
 </p>
 
 
-<p style="font-size:1.05em; line-height:1.6; margin-bottom:1.2em;">
-I am on the 2026–2027 job market.
-</p>
-
 <div style="padding:1em 1.1em; border:1px solid #e6e6e6; border-radius:12px; background:#fafafa; max-width:680px; margin:0 auto;">
   <div style="font-weight:700; font-size:1.05em; margin-bottom:0.6em;">
     Contact
